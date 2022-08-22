@@ -1,7 +1,7 @@
 package offlineTraning;
 
 import java.util.Scanner;
-
+//WAP to print the all alphabets of string in ascending and descending order
 public class AsendingNDesending {
 
 	public static void main(String args[])
