@@ -26,7 +26,7 @@ public class RepeatedAlphabets {
 			   value=value+1;
 			   mp.put(a[i],value);
 		   }else {
-			   mp.put(a[i], 1);
+			  // mp.put(a[i], 1);
 		   }
 	   }
 		
